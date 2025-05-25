@@ -13,6 +13,13 @@ public class CustomerController {
 		
 	}
 	
+	@GetMapping("/hello1")
+	public String m2()
+	{
+		return  "abcsdee";
+		
+	}
+	
 	
 	
 	
