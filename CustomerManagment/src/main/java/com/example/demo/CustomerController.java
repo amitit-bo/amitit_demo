@@ -13,7 +13,7 @@ public class CustomerController {
 		
 	}
 	
-	@GetMapping("/hello1")
+	@GetMapping("/welcome1")
 	public String m2()
 	{
 		return  "abcsdee";
